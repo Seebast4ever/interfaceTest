@@ -21,7 +21,7 @@ public class Rectangle extends Shape implements Area{
     }
     
     public double getArea(){
-	return 
+	return Math.PI * (getRadius() ^ 2);
     }
 
 }

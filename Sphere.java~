@@ -1,4 +1,4 @@
-public class Sphere extends Circle implements Volume{
+public class Sphere extends Circle{
 
     public Sphere(double radius, String name){
 	super(radius,name);

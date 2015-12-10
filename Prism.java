@@ -1,4 +1,4 @@
-public class Prism extends Rectangle{
+public class Prism extends Rectangle implements Volume{
 
     private double height;
 
